@@ -1,5 +1,5 @@
 # Maze Explorer
-![Maze Explorer GIF](https://media.giphy.com/media/6REIXqW1LvrX5ihxRV/giphy.gif)
+![Maze Explorer GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5tOTl0YmVkMWM3anZrN2d6bnJhZ3RiMzExcTZuazA5a2hpYmtyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzzfpCAaCupmF9odqa/giphy.gif)
 
 
 Explore the depths of algorithmic mazes and find your way out using the power of Breadth-First Search (BFS)!
