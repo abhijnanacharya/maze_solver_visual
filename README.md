@@ -19,7 +19,7 @@ Explore the depths of algorithmic mazes and find your way out using the power of
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/maze-explorer.git
+    git clone https://github.com/abhijnanacharya/maze-explorer.git
     cd maze-explorer
     ```
 
